@@ -111,7 +111,7 @@ export const experiences = [
         company_name: "CRP",
         icon: cooper,
         iconBg: "#fbc3bc",
-        date: "Jan 2021 - Fev 2022",
+        date: "Jan 2021 - Julho 2022",
         points: [
             "  Contribuí de forma proativa para o desenvolvimento do novo sistema em Visual Basic.Net, aplicando minhas habilidades no Bunifu Framework UI e na integração com o banco de dados MySql.",
             "  Assumi a responsabilidade pela criação do banco de dados,UML, elaboração do diagrama de classes e desempenhei um papel colaborativo na criação da interface do usuário. ",
