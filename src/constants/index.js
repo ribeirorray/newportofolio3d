@@ -207,6 +207,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link:'https://github.com/ribeirorray/React_API_Article_Extractor',
+        link:'https://react-api-article-extractor-git-main-ribeirorrays-projects.vercel.app/',
     }
 ];
