@@ -149,19 +149,19 @@ export const experiences = [
 
 export const socialLinks = [
     {
-        name: 'Contact',
+        name:'Contact',
         iconUrl: contact,
-        link: '/contact',
+        link:'/contact',
     },
     {
         name: 'GitHub',
         iconUrl: github,
-        link: 'https://github.com/ribeirorray',
+        link:'https://github.com/ribeirorray',
     },
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/rayanenascimento-dev/',
+        link:'https://www.linkedin.com/in/rayanenascimento-dev/',
     }
 ];
 
@@ -171,14 +171,14 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'YouTube Clone',
         description: 'YouTube Clone Application in React JS with Material UI 5.',
-        link: ' https://youtube-clone-nine-phi.vercel.app',
+        link:'https://youtube-clone-nine-phi.vercel.app',
     },
     {
         iconUrl: pricewise,
         theme: 'btn-back-blue',
         name: 'Stock VisualBasic.Net',
         description: 'Visual.NET, EF, Stored Procedures using Sql Server.',
-        link: ' https://github.com/ribeirorray/EstoqueMaster',
+        link:'https://github.com/ribeirorray/EstoqueMaster',
     },
     {
         iconUrl: pricewise,
@@ -192,7 +192,7 @@ export const projects = [
         theme: 'btn-back-green',
         name: 'Metaverse UI UX',
         description: 'Next 13 Website With Framer Motion & Tailwind CSS',
-        link: 'https://metaverse-sage-psi.vercel.app/',
+        link:'https://metaverse-sage-psi.vercel.app/',
     },
 
     {
@@ -207,6 +207,6 @@ export const projects = [
         theme: 'btn-back-yellow',
         name: 'AI Summarizer Application',
         description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/ribeirorray/React_API_Article_Extractor',
+        link:'https://github.com/ribeirorray/React_API_Article_Extractor',
     }
 ];
