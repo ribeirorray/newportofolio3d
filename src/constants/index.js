@@ -171,7 +171,7 @@ export const projects = [
         theme: 'btn-back-red',
         name: 'YouTube Clone',
         description: 'YouTube Clone Application in React JS with Material UI 5.',
-        link:'https://youtube-clone-nine-phi.vercel.app',
+        link:'https://youtube-clone-as9nijvvv-ribeirorrays-projects.vercel.app/',
     },
     {
         iconUrl: pricewise,
