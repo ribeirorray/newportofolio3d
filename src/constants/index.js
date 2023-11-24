@@ -185,7 +185,7 @@ export const projects = [
         theme: 'btn-back-pink',
         name: 'Thesocial APP in flutter + Firebase',
         description: 'My Project Final to college .',
-        link: ' https://github.com/ribeirorray/thesocialappflutter',
+        link:'https://github.com/ribeirorray/thesocialappflutter',
     },
     {
         iconUrl: threads,
@@ -198,8 +198,8 @@ export const projects = [
     {
         iconUrl: estate,
         theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: ' web application front-end.',
+        name: 'HILINK ',
+        description: 'web application front-end for travels.',
         link: 'https://travell-8weg8jf1l-ribeirorrays-projects.vercel.app/',
     },
     {
